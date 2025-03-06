@@ -1,0 +1,29 @@
+.scroll{
+    transition: 1s;
+    transform: translateY(5px);
+}
+.scroll:hover{
+    transform: translateY(0px);
+    transition: 1s;
+}
+.text{
+    color: white;
+    margin-top: 40px;
+}
+.btnimg{
+    margin-top: 10px;
+    width: 40px;
+    padding-bottom: 20px;
+}
+.abs{
+    position: absolute;
+    width: 40px;
+    margin-left: 45%;
+    margin-top: -90px;
+    transition: 1s;
+    transform: translateY(5px);
+}
+.abs:hover{
+    transform: translateY(0px);
+    transition: 1s;
+}

@@ -1,0 +1,37 @@
+.prod{
+    width: 445px;
+    height: 120px;
+    display: flex;
+    position: relative;
+    margin-top: 30px;
+    transition: 1s;
+    transform: scale(1);
+    text-align: left;
+}
+.prod:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+.prod img{
+    position: absolute;
+    margin-top: 20px;
+    width: 100px;
+    height: 80px;
+}
+.prodtxt{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.prodtxt h2{
+    width: 340px;
+font-size: 25px;
+/* font-weight: 400; */
+line-height: 30px;
+}
+.prodtxt h1{
+    color: blue;
+    width: 400px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+}

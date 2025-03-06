@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.hero2{
+  text-align: center;
+  background-image: url('./assets/background/backgrnd.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  z-index: -1;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  object-position: center;
+}
+.hero3{
+  text-align: center;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+.box1{
+  width: 520px;
+  height: 100vh;
+  /* border-style: solid; */
+  margin-left: 70px;
+  margin-top: 100px;
+  
+}
+.box2{
+  width: 794.12px;
+  margin-left: 80px;
+  margin-top: 100px;
+}
+.box4{
+  display: flex;
+  gap: 30px;
+}
+.social{
+  width: 445px;
+  display: flex;
+  flex-direction: column;
+}
+.fstrow{
+  display: flex;
+}
+.sndrow{
+  display: flex;
+}

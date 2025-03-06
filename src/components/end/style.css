@@ -1,0 +1,99 @@
+.enddiv{
+    text-align: center;
+    justify-content: center;
+    border-top: solid 1px gray;
+    
+}
+nav{
+    margin-top: 70px;
+    display: flex;
+    margin: auto;
+    margin-left: -100px;
+   justify-content: center;
+}
+nav img{
+    height: 63px;
+    width: 149px;
+    margin-right: 275px;
+    margin-left: 210px;
+}
+nav h2{
+    text-align: center;
+    font-size: 16px;
+    margin-right: 245px;
+    height: 63px;
+    margin-top: 20px;
+}
+.choosen{
+    margin-right: 140px;
+}
+.cont{
+    padding-top: 60px;
+    display: flex;
+    background-color: #000000AC;
+    height: 450px;
+    color: white;
+    justify-content: center;
+    line-height: 30px;
+    border-bottom: solid 1px white;
+}
+.inf{
+    margin-right: 90px;
+    text-align: left;
+    justify-content: left;
+    width: 337px;
+
+}
+.inf p{
+    text-align: left;
+    justify-content: left;
+    margin-bottom: 40px;
+    line-height: 30px;
+}
+.bdy{
+    width: 191px;
+    text-align: left;
+    justify-content: left;
+    margin-right: 90px;
+}
+p{
+    text-align: left;
+    justify-content: left;
+    margin-bottom: 40px;
+}
+.My{
+    margin-right: 90px;
+}
+.acnt{
+    margin-right: 90px;
+}
+.ending{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    display: flex;
+    background-color: #000000AC;
+}
+.hustle{
+    margin-right: 100px;
+    width: 189px;
+    height: 41px;
+}
+.imag{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: auto;
+    width: 20px;
+}
+.facebook{
+    height: 20px;
+    margin-right: 30px;
+    width: 13px;
+}
+.ending p{
+    margin-top: 13px;
+    margin-left: 25px;
+}

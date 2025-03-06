@@ -1,0 +1,35 @@
+.email{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.outertxt{
+    display: table-row;
+    width: 500px;
+}
+.row{
+    display: flex;
+}
+
+.innum{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: blue;
+    font-size: 30px;
+}
+input{
+    margin-left: 70px;
+    height: 88px;
+    width: 330px;
+    border-radius: 10px;
+    border-style: solid;
+    opacity: 0.7;
+    color: grey;
+    font-size: 17px;
+    text-indent: 15px;
+    margin-right: 10px;
+}

@@ -1,0 +1,20 @@
+.aboutcard{
+    text-align: center;
+    width: 438px;
+    height: 598px;
+    /* border-style: solid; */
+    box-shadow: 0px 20px 100px 1px rgb(235, 235, 235);
+    padding-top: 10px;
+    justify-content: center;
+    object-position: center;
+}
+.aboutcard img{
+    width: 363px;
+    padding-top: 10px;
+}
+.aboutcard p{
+    margin-top: 10px;
+    width: 363px;
+    margin-left: 34px;
+    text-align:left;
+}

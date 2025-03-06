@@ -1,0 +1,32 @@
+.listcard{
+    width: 438px;
+    height: 569px;
+    /* border-style: solid; */
+    box-shadow: 0px 20px 100px 1px rgb(235, 235, 235);
+    padding-top: 10px;
+    justify-content: center;
+    object-position: center;
+    margin-top: 50px;
+}
+.listcard h1{
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+.listcard ul{
+    margin-left: 30px;
+}
+.listcard ul li{
+    text-align: left;
+    list-style: none;
+    display: flex;
+    height: 60px;
+    width: 600px;
+}
+.listcard ul li h2{
+    width: 600px;
+    font-weight: 400;
+}
+.num{
+    margin-left: 10px;
+}

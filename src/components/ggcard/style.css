@@ -1,0 +1,40 @@
+.ggcard{
+    z-index: 0;
+    margin-top: 40px;
+    color: white;
+    box-shadow: 0px 20px 100px 0.0001px rgb(214, 214, 214);
+    width: 445px;
+    height: 364px;
+    position: relative;
+}
+.ggcard img{
+    position: absolute;
+    z-index: -2;
+    width: 445px;
+    height: 364px;
+    margin-left: -222.5px;
+}
+.ggcard h2{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-bottom: 100px;
+    padding-top: 20px;
+}
+.ggcard h1{
+    width: 370px;
+    margin-left: 30px;
+}
+.btns{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 5px;
+}
+.btns button{
+    color: blue;
+    font-size: 15px;
+    width: 41px;
+    height: 50px;
+    border-radius: 0px;
+    border-style: none;
+    margin-left: 25px;
+}
