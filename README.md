@@ -2,6 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+/////////////////////////////////////////////////////////////////
 
 Ciao mi amico! 
 
@@ -10,7 +11,7 @@ it can be a bit messy due to its my first project by using React.
 
 This site is tecnically IDk it is travel site and some parts are not finished yet.
 
-
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Currently, two official plugins are available:
 
